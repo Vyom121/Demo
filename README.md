@@ -4,8 +4,11 @@ HERE I have created a website for dental clinic appoinment booking named as "Bet
 I have only created front - end using HTML,CSS,JavaScript
 
 Azure Service used
-Static Web app Service - To deploy the webapage on the cloud
-The QnA Maker service of Azure Cognitive Service for Language : To create that chat bot to answer customer question
+
+1.Static Web app Service - To deploy the webapage on the cloud
+
+
+2.The QnA Maker service of Azure Cognitive Service for Language : To create that chat bot to answer customer question
 
 Link of  My Website
 https://white-wave-01e3f6010.1.azurestaticapps.net/
