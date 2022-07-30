@@ -2,6 +2,11 @@
 
 HERE I have created a website for dental clinic appoinment booking named as "Better Dental" by this people can book their appointment just with a click and customer can get all information reagarding maintaince of their oral health from chat bot even these services are being offered at such minimal price.
 I have only created front - end using HTML,CSS,JavaScript
+
+Azure Service used
+Static Web app Service - To deploy the webapage on the cloud
+The QnA Maker service of Azure Cognitive Service for Language : To create that chat bot to answer customer question
+
 Link of  My Website
 https://white-wave-01e3f6010.1.azurestaticapps.net/
 
@@ -27,7 +32,7 @@ CONTACT PAGE
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/96306267/181935998-b230b220-4a1a-468e-b379-3a427ac01e2f.png">
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/96306267/181935977-42b69257-175f-4ed8-9857-433d3fa1423e.png">
 
-Youtube video link
+
 
 
 Azure Portal Screenshot
