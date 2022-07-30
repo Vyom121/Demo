@@ -32,3 +32,4 @@ Youtube video link
 
 Azure Portal Screenshot
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96306267/181936431-4c3fe0f7-704f-4bd3-9dfe-b782f5142aa0.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/96306267/181936806-6e87d1f0-394b-4c2d-9d4e-656bf6d93b2b.png">
