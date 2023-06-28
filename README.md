@@ -11,7 +11,7 @@ Azure Service used
 2.The QnA Maker service of Azure Cognitive Service for Language : To create that chat bot to answer customer question
 
 Link of  My Website
-https://white-wave-01e3f6010.1.azurestaticapps.net/
+https://white-wave-01e3f6010.1.azurestaticapps.net/ (link not in use)
 
 
 Youtube Video
